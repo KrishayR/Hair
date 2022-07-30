@@ -13,6 +13,7 @@ The first button represents a fade, the mushroom icon indicates a mushroom cut, 
 Once you click on a button, the camera will start and you'll get another window where you should see the hair style you selected in real time. If another person is next to you, you should see them with the hair style as well. Press esc to close this window.
 
 Example:
+
 ![hair](https://user-images.githubusercontent.com/75190777/181997121-18657e6a-f8e2-4cc5-91ab-fedcfaf6cb51.gif)
 
 (If you don't see the hair style, make sure your at least 2 feet from the device and be sure your lighting is decent.)
