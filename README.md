@@ -13,7 +13,7 @@ Fade
 
 ![fade](https://user-images.githubusercontent.com/75190777/182006956-38ed40b1-d04f-437a-a206-153831f6c2be.png) 
 
-Mushroom
+Mushroom cut
 
 ![mushroom](https://user-images.githubusercontent.com/75190777/182006965-d1b43f23-fcd6-466d-aa79-fdca023e8f5c.png) 
 
