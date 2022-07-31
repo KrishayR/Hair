@@ -8,6 +8,18 @@ To use this GUI, start by running `GUI.py`. You will see a starting screen that 
 <img width="1193" alt="image" src="https://user-images.githubusercontent.com/75190777/181996760-93bde417-2360-4a31-9b14-04cfe28cd3af.png">
 Next, click "start" and it will take you to a page where you can click on multiple buttons, each representing a certain hair style.
 <img width="1202" alt="image" src="https://user-images.githubusercontent.com/75190777/181996812-ef12fc9e-d5e3-476f-b82a-52ed310d224c.png">
+
+![fade](https://user-images.githubusercontent.com/75190777/182006956-38ed40b1-d04f-437a-a206-153831f6c2be.png) -> Fade
+
+![mushroom](https://user-images.githubusercontent.com/75190777/182006965-d1b43f23-fcd6-466d-aa79-fdca023e8f5c.png) -> Mushroom cut
+
+![bangs](https://user-images.githubusercontent.com/75190777/182006977-c503b23f-aac8-464e-98d8-22eb8b199c4a.png) -> Bangs
+
+![anime](https://user-images.githubusercontent.com/75190777/182006980-3fa9aa32-7a45-457c-b6ec-d9e044610cb3.png) -> Anime
+
+![afro](https://user-images.githubusercontent.com/75190777/182006949-b6471e26-72d2-4500-88c1-f16a896762e1.png) -> Afro
+
+
 The first button represents a fade, the mushroom icon indicates a mushroom cut, "bang" is for bangs, the 4th icon is an anime hair style, and the afro icon will give you an afro. 
 
 Once you click on a button, the camera will start and you'll get another window where you should see the hair style you selected in real time. If another person is next to you, you should see them with the hair style as well. Press esc to close this window.
