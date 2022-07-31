@@ -20,6 +20,10 @@ Example:
 
 # How it works
 
-The GUI itself is pretty straightforward. In `gui.py` there is simply an image placed in the background and another image that i've made into a button. When you click this button, it goes to the next file 'functionality.py' through an import `import functionality`. In `functionality.py` there are just a couple more buttons which are binded to the function `cam(hair)` which essentially imports `video.py` and calls the specific hairstyle selected. Most of the magic happens in `video.py`. 
+The GUI itself is pretty straightforward. In `gui.py` there is simply an image placed in the background and another image that i've made into a button. When you click this button, it goes to the next file `functionality.py` through an import `import functionality`. In `functionality.py` there are just a couple more buttons which are binded to the function `cam(hair)` which essentially imports `video.py` and calls the specific hair style selected.
+
+Most of the magic happens in `video.py`. 
+Basically, you open the camera, set the frame width and height, and then use the haarcascades model to identify where the face is in the live camera. Next, I used a pre-set x and y which I added to the default x and y values of where the face lies. In short, it detects the face, then goes up about 50 pixels (the top of the head) and places an overlay of the hair style selected.
+<img width="1267" alt="image" src="https://user-images.githubusercontent.com/75190777/182006851-3e0c7436-0ea1-4968-9710-12baa1b171ce.png">
 
 
