@@ -10,18 +10,23 @@ Next, click "start" and it will take you to a page where you can click on multip
 <img width="1202" alt="image" src="https://user-images.githubusercontent.com/75190777/181996812-ef12fc9e-d5e3-476f-b82a-52ed310d224c.png">
 
 Fade
+
 ![fade](https://user-images.githubusercontent.com/75190777/182006956-38ed40b1-d04f-437a-a206-153831f6c2be.png) 
 
 Mushroom
+
 ![mushroom](https://user-images.githubusercontent.com/75190777/182006965-d1b43f23-fcd6-466d-aa79-fdca023e8f5c.png) 
 
 Bangs
+
 ![bangs](https://user-images.githubusercontent.com/75190777/182006977-c503b23f-aac8-464e-98d8-22eb8b199c4a.png) 
 
 Anime
+
 ![anime](https://user-images.githubusercontent.com/75190777/182006980-3fa9aa32-7a45-457c-b6ec-d9e044610cb3.png)
 
 Afro
+
 ![afro](https://user-images.githubusercontent.com/75190777/182006949-b6471e26-72d2-4500-88c1-f16a896762e1.png)
 
 
