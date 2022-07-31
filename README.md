@@ -16,6 +16,10 @@ Example:
 
 ![hair](https://user-images.githubusercontent.com/75190777/181997121-18657e6a-f8e2-4cc5-91ab-fedcfaf6cb51.gif)
 
-(If you don't see the hair style, make sure your at least 2 feet from the device and be sure your lighting is decent.)
+(If you don't see the hair style, make sure your at least 2 feet from the device and be sure your lighting is decent)
+
+# How it works
+
+The GUI itself is pretty straightforward. In `gui.py` there is simply an image placed in the background and another image that i've made into a button. When you click this button, it goes to the next file 'functionality.py' through an import `import functionality`. In `functionality.py` there are just a couple more buttons which are binded to the function `cam(hair)` which essentially imports `video.py` and calls the specific hairstyle selected. Most of the magic happens in `video.py`. 
 
 
